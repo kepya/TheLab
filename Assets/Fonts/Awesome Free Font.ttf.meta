@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: cf78deb4514bea3428703a64e766d99e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Awesome Free Font
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 093542eea75b5f441bc2597135b52205, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
